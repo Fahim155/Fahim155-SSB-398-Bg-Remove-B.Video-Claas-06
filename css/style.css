@@ -1,0 +1,114 @@
+body{ margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 700;
+
+
+}
+
+.Background{
+
+padding-bottom: 10px;
+overflow: hidden;
+
+}
+
+.container{
+	/*border:1px solid ;*/
+
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+
+
+
+}
+
+.single{
+
+	float: left;
+
+	
+
+	width: 50%;
+
+
+
+}
+
+.s_content h1{
+	text-align: center;
+	
+
+
+
+}
+.orange{
+
+
+	color:coral;
+}
+
+.s_content img{
+
+    height: 400px;
+    width: 300px;
+    margin: 15px 28%;
+}
+
+
+
+
+/* Brandding start */
+
+
+.Brandding {
+	padding-top: 60px;
+
+
+
+}
+
+.container2{
+
+	/*border:1px solid ;*/
+
+	width: 60%;
+	margin: 0 auto;
+
+
+
+}
+.b_content{
+
+
+
+}
+
+.b_content h1{
+
+	color: green;
+
+	
+	text-align: center;
+
+
+
+
+}
+
+.b_content video{
+	
+    width:100%;
+
+
+
+
+}
+
+
+/* Brandding End */
+
+
+
